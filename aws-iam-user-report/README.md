@@ -1,1 +1,1 @@
-Exports all IAM users to an excel file requires boto3 and xlsxwrite
+Exports all IAM users to an excel file. It requires boto3 and xlsxwrite
