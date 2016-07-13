@@ -7,7 +7,7 @@ import re
 session = boto3.session.Session(
           aws_access_key_id='',
           aws_secret_access_key='',
-		  region_name=''
+	  region_name=''
 )
 
 # Creating aws client and aws resource sessions
