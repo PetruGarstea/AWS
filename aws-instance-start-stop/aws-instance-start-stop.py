@@ -10,7 +10,7 @@ aws_key = ''
 ird_asgs = {}
 
 # Here is Jmeter instance located in London region
-instances = ['i-088584a8578aeab12']
+instances = ['']
 
 # List of all regions and session creation function
 def get_ec2_regions():
